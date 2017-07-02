@@ -1,4 +1,4 @@
-# Pure React Messages App
+# React Redux Messages App
 
 A messages app implemented in react and redux.
 
